@@ -1,0 +1,48 @@
+{
+  "minIntervalSpacing": 105,
+  "levelOfDetail": "default",
+  "labelPlacement": {
+    "upperLeft": true,
+    "upperRight": true,
+    "lowerLeft": true,
+    "lowerRight": true,
+    "center": true
+  },
+  "verticalLabels": true,
+  "cornerLabelXOffset": 10,
+  "cornerLabelYOffset": 10,
+  "intervalLabelXOffset": 30,
+  "intervalLabelYOffset": 30,
+  "colors": [
+    "#2acbeb",
+    "#b5bacc",
+    "#00a7c9",
+    "#0bcaf0",
+    "#65daf1",
+    "#a2e8fa",
+    "#000000"
+  ],
+  "lineWidths": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "fontSizes": [
+    20,
+    18,
+    16,
+    14,
+    12,
+    10,
+    11
+  ],
+  "lineOpacity": 1,
+  "labelOpacity": 0.39999999999999997,
+  "centerLabelOpacity": 0.4,
+  "centerLabelScaleFactor": 3,
+  "fontFamily": "Arial, Helvetica, sans-serif"
+}
